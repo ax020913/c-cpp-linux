@@ -1,7 +1,7 @@
 # C-Cpp-Linux
 c-cpp-linux 学习内容
 
-## 一. linux 系统调用(system call)
+## 一. linux 系统调用(testSysCall 文件夹的内容)
 
 学习后面内容的辅助工具。
 
